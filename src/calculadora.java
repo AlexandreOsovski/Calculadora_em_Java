@@ -54,7 +54,7 @@ public class calculadora {
     			resultado = numero1 - numero2;
     			break;
 
-            //muktiplicação    
+            //multiplicação    
     		case 3:
     			resultado = numero1 * numero2;
     			break;
